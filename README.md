@@ -1,6 +1,6 @@
 # Javascript-Flappy-Bird
 Install all the dependencies of nodejs using "npm i" command using your command line.
-Build the webpack using "npm run buil" command.
+Build the webpack using "npm run build" command.
 Start devserver using "npm start".
 
 //Game instructions:
